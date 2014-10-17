@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jbk:home|Door43 (jbk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jbk|d43-jbk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jbk/archive/master.zip|d43-jbk.zip]]
+
+**Recent Changes**
+{{changes>ns = jbk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jbk|Ethnologue data]]
+
